@@ -1,28 +1,30 @@
 # ⚛️ 3Dscience Molecule & Surface Simulator
 
-Un motor de renderizado y simulación molecular en 3D interactivo desarrollado de forma nativa para Android. Esta herramienta permite modelar estructuras químicas complejas, guardar tus propios diseños y calcular de forma dinámica superficies de densidad electrónica y orbitales moleculares en tiempo real.
+---
+
+An interactive 3D molecular rendering and simulation engine developed natively for Android. This tool allows you to model complex chemical structures, save your own designs, and dynamically calculate electron density surfaces and molecular orbitals in real time.
 
 ---
 
-## ✨ Características Principales
+## ✨ Key Features
 
-* **🧪 Modelador Molecular Interactivo:** Añade e interconecta átomos de la tabla periódica (H, C, N, O, F, Cl, P) mediante una interfaz de rejilla interactiva para crear tus propios diseños químicos.
-* **🧠 Molécula de Ejemplo Integrada (DMT):** Incluye la estructura tridimensional de la molécula de DMT de forma nativa para probar instantáneamente el rendimiento del motor y la generación de superficies.
-* **💾 Sistema de Archivos Propietario (.mol):** * **Importar:** Abre y visualiza estructuras complejas desde archivos `.mol`.
-    * **Exportar:** Dibuja tus propias moléculas y expórtalas en formato `.fol` para guardarlas en el dispositivo o compartirlas.
-* **🔮 3 Estilos de Representación Gráfica (Render):**
-    * **Malla (Wireframe):** Estructura poligonal óptima para analizar la topología y geometría de la superficie calculada.
-    * **Puntos (Dots):** Representación mediante nubes de partículas densas que emulan la probabilidad cuántica de los electrones.
-    * **Sólido:** Superficies opacas completamente renderizadas con cálculo de iluminación espacial.
-* **🕹️ Manipulación Espacial Completa:** Herramientas integradas de **Zoom** fluido y **Pan/Mover** para orbitar alrededor de las estructuras moleculares en un entorno tridimensional de alto rendimiento.
+* **🧪 Interactive Molecular Modeler:** Add and connect atoms from the periodic table (H, C, N, O, F, Cl, P) using an interactive grid interface to create your own chemical designs.
+* **🧠 Built-in Sample Molecule (DMT):** Includes the 3D structure of the DMT molecule natively, allowing you to instantly test engine performance and surface generation.
+* **💾 Proprietary File System (.mol):** * **Import:** Open and visualize complex structures from `.mol` files.
+    * **Export:** Draw your own molecules and export them in `.fol` format to save them to your device or share them.
+* **🔮 3 Rendering Styles:**
+    * **Wireframe:** Polygonal structure optimized for analyzing the topology and geometry of the calculated surface.
+    * **Dots:** Representation using dense particle clouds that emulate quantum electron probability.
+    * **Solid:** Fully rendered opaque surfaces with spatial lighting calculations.
+* **🕹️ Full Spatial Manipulation:** Integrated tools for smooth **Zoom** and **Pan/Move** to orbit around molecular structures in a high-performance 3D environment.
 
 ---
 
-## 🛠️ Stack Técnico y Optimización
+## 🛠️ Technical Stack and Optimization
 
-* **Plataforma:** Android Nativo (Cálculo optimizado y renderizado 3D de baja latencia).
-* **Gestión de Archivos:** Parser personalizado para la lectura y escritura de archivos de estructura molecular `.fol`.
-* **Seguridad y Rendimiento:** Compilación de producción protegida frente a ingeniería inversa y descompilación mediante optimizadores avanzados (**R8 / ProGuard**).
+* **Platform:** Native Android (Optimized computation and low-latency 3D rendering).
+* **File Management:** Custom parser for reading and writing `.fol` molecular structure files.
+* **Security and Performance:** Production build protected against reverse engineering and decompilation using advanced optimizers (**R8 / ProGuard**).
 
 ---
 
@@ -36,10 +38,10 @@ Un motor de renderizado y simulación molecular en 3D interactivo desarrollado d
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-## 📄 Licencia y Propiedad Intelectual
+## 📄 License and Intellectual Property
 
-Copyright © 2026. Todos los derechos reservados.
-El motor matemático de cálculo de superficies, el parser de archivos `.mol`, el código fuente y los recursos lógicos de esta aplicación están protegidos bajo propiedad intelectual de carácter privado. Queda prohibida su copia, distribución o descompilación no autorizada.
+Copyright © 2026. All rights reserved.
+The mathematical engine for surface calculation, the `.mol` file parser, the source code, and the logical resources of this application are protected as private intellectual property. Unauthorized copying, distribution, or decompilation is prohibited.
 
 ---
-*Llevando el diseño molecular y el rendimiento móvil al siguiente nivel.*
+*Taking molecular design and mobile performance to the next level.*
