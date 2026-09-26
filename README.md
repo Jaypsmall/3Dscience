@@ -1,4 +1,4 @@
-# ⚛️ 3Dscience Molecule & Surface Simulator
+# ⚛️ 3Dscience Molecule & Surface Simulator  ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow)
 
 ---
 
@@ -31,12 +31,10 @@ An interactive 3D molecular rendering and simulation engine developed natively f
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a178403-c2ee-4089-8bb0-cec69bb523c9" width="30%" />
-  <img src="https://github.com/user-attachments/assets/6530b65c-25f2-4f97-baea-853edda88aad" width="30%" />
+  <img src="https://github.com/user-attachments/assets/1a178403-c2ee-4089-8bb0-cec69bb523c9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/6530b65c-25f2-4f97-baea-853edda88aad" width="45%" />
 </p>
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ## 📄 License and Intellectual Property
 
