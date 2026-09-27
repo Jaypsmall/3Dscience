@@ -1,4 +1,4 @@
-# ⚛️ 3Dscience Molecule & Surface Simulator  ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow)
+# ⚛️ 3Dscience Molecule & Surface Simulator   ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow)
 
 An interactive 3D molecular rendering and simulation engine developed natively for Android. This tool allows you to model complex chemical structures, save your own designs, and dynamically calculate electron density surfaces and molecular orbitals in real time.
 
@@ -40,4 +40,6 @@ Copyright © 2026. All rights reserved.
 The mathematical engine for surface calculation, the `.mol` file parser, the source code, and the logical resources of this application are protected as private intellectual property. Unauthorized copying, distribution, or decompilation is prohibited.
 
 ---
+
+***Created by JAYLIZ with 💙***
 *Taking molecular design and mobile performance to the next level.*
