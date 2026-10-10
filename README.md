@@ -1,9 +1,9 @@
-# ⚛️ 3Dscience Molecule & Surface Simulator   ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=yellow) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=yellow)
+# ⚛️ 3Dscience Molecule & Surface Simulator   ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=6840B8) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=6840B8)
 
 An interactive 3D molecular rendering and simulation engine developed natively for Android. This tool allows you to model complex chemical structures, save your own designs, and dynamically calculate electron density surfaces and molecular orbitals in real time.
 
 <a href="https://github.com/Jaypsmall/3Dscience/releases/download/android-app/3Dscience_v1.0.1.apk">
-  <img src="https://img.shields.io/badge/DOWNLOAD_3D_SCIENCE_MOLECULE_v1.0.1_APK-181717?style=flat&logo=android&logoColor=yellow" alt="Download Release">
+  <img src="https://img.shields.io/badge/DOWNLOAD_3D_SCIENCE_MOLECULE_v1.0.1_APK-181717?style=flat&logo=android&logoColor=6840B8" alt="Download Release">
 </a>
 
 ---
