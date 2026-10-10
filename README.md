@@ -2,7 +2,7 @@
 
 An interactive 3D molecular rendering and simulation engine developed natively for Android. This tool allows you to model complex chemical structures, save your own designs, and dynamically calculate electron density surfaces and molecular orbitals in real time.
 
-<a href="https://github.com/Jaypsmall/3Dscience/releases/download/android-app/3Dscience_v1.0.1.apk>
+<a href="https://github.com/Jaypsmall/3Dscience/releases/download/android-app/3Dscience_v1.0.1.apk">
   <img src="https://img.shields.io/badge/DOWNLOAD_3D_SCIENCE_MOLECULE_v1.0.1_APK-181717?style=flat&logo=android&logoColor=yellow" alt="Download Release">
 </a>
 
