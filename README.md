@@ -10,15 +10,22 @@ Una simulación molecular 3D interactiva para Android. Esta herramienta te permi
 
 ## ✨ Key Features
 
-* **🧪 Interactive Molecular Modeler:** Add and connect atoms from the periodic table (H, C, N, O, F, Cl, P) using an interactive grid interface to create your own chemical designs.
-* **🧠 Built-in Sample Molecule (DMT):** Includes the 3D structure of the DMT molecule natively, allowing you to instantly test engine performance and surface generation.
-* **💾 Proprietary File System (.mol):** * **Import:** Open and visualize complex structures from `.mol` files.
-    * **Export:** Draw your own molecules and export them in `.fol` format to save them to your device or share them.
-* **🔮 3 Rendering Styles:**
-    * **Wireframe:** Polygonal structure optimized for analyzing the topology and geometry of the calculated surface.
-    * **Dots:** Representation using dense particle clouds that emulate quantum electron probability.
-    * **Solid:** Fully rendered opaque surfaces with spatial lighting calculations.
-* **🕹️ Full Spatial Manipulation:** Integrated tools for smooth **Zoom** and **Pan/Move** to orbit around molecular structures in a high-performance 3D environment.
+* **🧪 Modelador molecular interactivo:** Añade y conecta átomos de la tabla periódica (H, C, N, O, F, Cl, P) mediante una interfaz de cuadrícula interactiva para crear tus propios diseños químicos.
+
+* **🧠 Molécula de muestra integrada (DMT):** Incluye la estructura 3D de la molécula de DMT de forma nativa, lo que te permite probar al instante el rendimiento del motor y la generación de superficies.
+
+* **💾 Sistema de archivos propietario (.mol):** * **Importar:** Abre y visualiza estructuras complejas desde archivos `.mol`.
+
+* **Exportar:** Dibuja tus propias moléculas y expórtalas en formato `.fol` para guardarlas en tu dispositivo o compartirlas.
+
+* **🔮 3 estilos de renderizado:**
+
+* **Estructura alámbrica:** Estructura poligonal optimizada para analizar la topología y la geometría de la superficie calculada.
+
+* **Puntos:** Representación mediante densas nubes de partículas que emulan la probabilidad cuántica de electrones.
+ * **Sólido:** Superficies opacas completamente renderizadas con cálculos de iluminación espacial.
+
+* **🕹️ Manipulación espacial completa:** Herramientas integradas para un **zoom** y **desplazamiento** fluidos que permiten orbitar alrededor de estructuras moleculares en un entorno 3D de alto rendimiento.
 
 ---
 
