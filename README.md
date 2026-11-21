@@ -1,4 +1,4 @@
-# ⚛️ 3Dscience Molecule & Surface Simulator ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=C81AEE) <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
+# ⚛️ 3Dscience Molecule - Surface Simulator ![Android](https://img.shields.io/badge/Android-181717?style=flat&logo=android&logoColor=green) ![Kotlin](https://img.shields.io/badge/kotlin-181717?style=flat&logo=kotlin&logoColor=C81AEE) <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
 
 Una simulación molecular 3D interactiva para Android. Esta herramienta te permite modelar estructuras químicas complejas, guardar tus propios diseños y calcular dinámicamente superficies de densidad electrónica y orbitales moleculares en tiempo real.
 
