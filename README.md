@@ -3,8 +3,8 @@
 Una simulación molecular 3D interactiva para Android. Esta herramienta te permite modelar estructuras químicas complejas, guardar tus propios diseños y calcular dinámicamente superficies de densidad electrónica y orbitales moleculares en tiempo real.
 
 <a href="https://github.com/Jaypsmall/3Dscience/releases/download/android-app/3Dscience_v1.0.1.apk">
-  <img src="https://img.shields.io/badge/DOWNLOAD_3D_SCIENCE_MOLECULE_v1.0.1_APK-181717?style=flat&logo=android&logoColor=green" alt="Download Release">
-</a>
+    <img src="https://img.shields.io/badge/📥_DESCARGAR_3D_SCIENCE_MOLECULE_v1.0.1_APK-181717?style=for-the-badge&logo=android&logoColor=00FF66" alt="Descargar APK">
+  </a>
 
 ---
 
